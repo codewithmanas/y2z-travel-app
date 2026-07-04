@@ -56,7 +56,7 @@ export const mockItinerary: Activity[][] = [
     {
       id: "5",
       name: "Humayun's Tomb",
-      rating: 4.5,
+      rating: 4.1,
       reviewCount: 46024,
       description: "Humayun's tomb is the final resting place of the Mughal Emperor Humayun.",
       image: "https://images.pexels.com/photos/1359935/pexels-photo-1359935.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
